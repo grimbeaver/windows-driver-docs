@@ -75,7 +75,7 @@ The following table describes the granular keywords that you can use to configur
 |||1|Auth Header Enabled|
 |||2|ESP Enabled|
 |||3 (Default)|Auth Header & ESP Enabled|
-|***IPsecOffloadV2IPv4**|IPsec Offload (IPv4 only)|0|Disabled|
+|**IPsecOffloadV2IPv4**|IPsec Offload (IPv4 only)|0|Disabled|
 |||1|Auth Header Enabled|
 |||2|ESP Enabled|
 |||3 (Default)|Auth Header & ESP Enabled|
